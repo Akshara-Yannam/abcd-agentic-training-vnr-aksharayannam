@@ -1,0 +1,5 @@
+Machine learning is a part of artificial intelligence
+Data science involves statistics and programming
+Python is widely used in machine learning
+Search algorithms are important in computer science
+Cosine similarity measures document similarity
