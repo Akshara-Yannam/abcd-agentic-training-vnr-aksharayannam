@@ -1,0 +1,2 @@
+Tokenization is the first step in NLP.
+It splits text into smaller units called tokens.
