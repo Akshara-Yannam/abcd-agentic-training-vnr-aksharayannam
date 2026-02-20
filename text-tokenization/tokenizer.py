@@ -1,7 +1,5 @@
 import re
-
-
-with open("sample_text.txt", "r") as file:
+with open("sampletext.txt", "r") as file:
     text = file.read()
 
 print("Original Text:\n")
